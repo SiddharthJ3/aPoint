@@ -1,0 +1,127 @@
+.navv
+{
+  background-color: #125D98 !important;
+  padding: 2% 10%;
+}
+.navbar-brand
+{
+  color: white !important;
+}
+.nav-link
+{
+  color: white !important;
+}
+.nav-item a:hover
+{
+  border-radius: 6%;
+  /* background-color: blue; */
+  color: #0A81AB !important;
+}
+.navbar-nav{
+  padding-right:10%;
+
+}
+.nav-item
+{
+  text-align: center;
+  padding:0% 2% 0% 9%;
+}
+#carousel
+{
+  background-image:linear-gradient(#125D98,powderblue);
+}
+.carousel-inner
+{
+  height:45rem;
+}
+.carousel-item
+{
+  margin-top: 8%;
+}
+.Login
+{
+  margin:auto;
+  height: 30rem;
+  width: 22rem;
+  border: 1px solid black;
+  background-color: #EEEEEE;
+  border-radius: 8%;
+  text-align: center;
+
+
+}
+.Login:hover
+{
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, .2);
+  transition-duration:0.3s;
+  transform:translateY(-8px);
+}
+.pnbtn
+{
+  filter: invert(100%);
+}
+.titleLogin
+{
+  font-size: 2.1rem;
+  color: #125D98;
+  text-shadow:2px 2px 2px 2px;
+  font-family: 'Ubuntu Mono', monospace;
+  font-weight:900;
+  text-align:center;
+}
+#emails
+{
+  font-size:1.15rem;
+}
+
+#pws
+{
+  font-size: 1.15rem;
+}
+#emaildabba
+{
+  margin:auto;
+}
+.Loginforms
+{
+  margin-top: 15%;
+  width: 20rem;
+  margin-left: 4%;
+}
+#fw
+{
+  font-size: 1rem;
+}
+.midhead
+{
+  font-size: 5rem;
+  margin-bottom: 3%;
+  color: blue;
+  /* font-family: 'Syncopate', sans-serif; */
+
+}
+.quality
+{
+   text-align: center;
+   font-size: 1.2rem;
+   font-weight: bolder;
+   color: darkblue;
+}
+.midimages
+{
+  /* margin: 0% 70%; */
+  height: 10rem;
+  width: 10rem;
+  filter:brightness(90%);
+}
+.midrow
+{
+  padding: 10%;
+  background-image: linear-gradient(powderblue,powderblue);
+  font-weight: bolder;
+
+}
+.btnsubmit
+{
+  background-color:#B0CAC7;
+}
